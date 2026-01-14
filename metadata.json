@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NyaySetu - Digital Legal Empowerment",
+  "description": "A comprehensive legal platform for FIR digitization, legal awareness via AI chatbot, and accountability tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
